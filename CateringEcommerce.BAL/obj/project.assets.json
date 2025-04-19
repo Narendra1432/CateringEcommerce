@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce\\CateringEcommerce.Web.csproj",
-      "projectName": "CateringEcommerce.Web",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce\\CateringEcommerce.Web.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce.BAL\\CateringEcommerce.BAL.csproj",
+      "projectName": "CateringEcommerce.BAL",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce.BAL\\CateringEcommerce.BAL.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce.BAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
