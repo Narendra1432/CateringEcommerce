@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.BAL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.Domain\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.BAL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.Domain\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.BAL\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\project\C#\CateringEcommerce\CateringEcommerce.Domain\obj\Debug\net9.0\staticwebassets.build.json

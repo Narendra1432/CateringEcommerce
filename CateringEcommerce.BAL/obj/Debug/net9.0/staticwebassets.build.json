@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "OcSpbw0YXVv8cICasw/T8HOfigN3b8Of4k9VYVUlLBM=",
+  "Source": "CateringEcommerce.BAL",
+  "BasePath": "_content/CateringEcommerce.BAL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Desktop\\project\\C#\\CateringEcommerce\\CateringEcommerce.Domain\\CateringEcommerce.Domain.csproj",
+      "Version": 2,
+      "Source": "CateringEcommerce.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

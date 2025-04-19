@@ -8,6 +8,19 @@ builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowWebClient", builder =>
+    {
+        builder.WithOrigins("https://localhost:5001") // Web project URL
+               .AllowAnyHeader()
+               .AllowAnyMethod();
+    });
+});
+
+app.UseCors("AllowWebClient");
+
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

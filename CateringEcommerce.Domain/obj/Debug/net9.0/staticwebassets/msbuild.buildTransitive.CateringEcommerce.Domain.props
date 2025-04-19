@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CateringEcommerce.Domain.props" />
+</Project>
