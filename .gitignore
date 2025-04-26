@@ -1,0 +1,17 @@
+## Ignore build results
+**/bin/
+**/obj/
+
+## Ignore Rider, VSCode, and Visual Studio files
+.vscode/
+.idea/
+*.user
+*.suo
+
+## Ignore other build outputs and logs
+*.log
+*.cache
+*.vs/
+
+## Optional: ignore published output
+**/publish/
