@@ -23,20 +23,20 @@ namespace CateringEcommerce.API.Controllers
 
         AdminData adminData = new AdminData();
 
-        [HttpGet]
-        public IActionResult GetAll()
-        {
-            var Data = adminData.GetAllAdmin();
+        //[HttpGet]
+        //public IActionResult GetAll()
+        //{
+        //    var Data = adminData.GetAllAdmin();
 
-            return Ok(Data);
-        }
+        //    return Ok(Data);
+        //}
 
-        [HttpGet("{Id}")]
-        public IActionResult GetById(int Id)
-        {
-            var Data = adminData.GetAdminById(Id);
-            return Ok(Data);
-        }
+        //[HttpGet("{Id}")]
+        //public IActionResult GetById(int Id)
+        //{
+        //    var Data = adminData.GetAdminById(Id);
+        //    return Ok(Data);
+        //}
 
         [HttpDelete("{Id}")]
         public IActionResult Delete(int Id)

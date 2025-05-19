@@ -24,20 +24,20 @@ namespace CateringEcommerce.API.Controllers
 
         UserData userData = new UserData();
 
-        [HttpGet]
-        public IActionResult GetAll()
-        {
-            var Data = userData.GetAllUser();
+        //[HttpGet]
+        //public IActionResult GetAll()
+        //{
+        //    var Data = userData.GetAllUser();
 
-            return Ok(Data);
-        }
+        //    return Ok(Data);
+        //}
 
-        [HttpGet("{Id}")]
-        public IActionResult GetById(int Id)
-        {
-            var Data = userData.GetUserById(Id);
-            return Ok(Data);
-        }
+        //[HttpGet("{Id}")]
+        //public IActionResult GetById(int Id)
+        //{
+        //    var Data = userData.GetUserById(Id);
+        //    return Ok(Data);
+        //}
 
         [HttpDelete("{Id}")]
         public IActionResult Delete(int Id)
